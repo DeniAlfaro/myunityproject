@@ -1,55 +1,64 @@
 fileFormatVersion: 2
-guid: 8532f1cd1f9efd64fa9aea09022fadd7
+guid: dd702ae75f38a744ca17868f231d00e3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8838733784046698314
-    second: guy_0
+      213: 5124105184285135337
+    second: terrex_0
   - first:
-      213: -85143026333325830
-    second: guy_1
+      213: -8703789735890065884
+    second: terrex_1
   - first:
-      213: -4596925854950981443
-    second: guy_2
+      213: 8748434429110100946
+    second: terrex_2
   - first:
-      213: 5649436337669503486
-    second: guy_3
+      213: 5994482839957016774
+    second: terrex_3
   - first:
-      213: -346737890182201901
-    second: guy_4
+      213: -76030909830233740
+    second: terrex_4
   - first:
-      213: -3731534713186674114
-    second: guy_5
+      213: -2410292876064516157
+    second: terrex_5
   - first:
-      213: -7956894764785292722
-    second: guy_6
+      213: 6269577772679680415
+    second: terrex_6
   - first:
-      213: -3728694128208711153
-    second: guy_7
+      213: 6125577994975088573
+    second: terrex_7
   - first:
-      213: 3597905369174760592
-    second: guy_8
+      213: -1235893218020146033
+    second: terrex_8
   - first:
-      213: 6489609720678004854
-    second: guy_9
+      213: 1034393627734848753
+    second: terrex_9
   - first:
-      213: -3574186129514847223
-    second: guy_10
+      213: 849637253871434619
+    second: terrex_10
   - first:
-      213: -8368286137474130107
-    second: guy_11
+      213: -1643173811066520436
+    second: terrex_11
   - first:
-      213: 444980934266829533
-    second: guy_12
+      213: 3289082651027714939
+    second: terrex_12
   - first:
-      213: -8910553008350129655
-    second: guy_13
+      213: -8263433701876841726
+    second: terrex_13
   - first:
-      213: 5756460171801650191
-    second: guy_14
+      213: 6236147169430190301
+    second: terrex_14
   - first:
-      213: 4582971120410572693
-    second: guy_15
+      213: 469922705028039601
+    second: terrex_15
+  - first:
+      213: -8395919313364557295
+    second: terrex_16
+  - first:
+      213: 5029697251709141102
+    second: terrex_17
+  - first:
+      213: 7351408093229873837
+    second: terrex_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,7 +103,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -175,13 +184,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: guy_0
+      name: terrex_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 72
-        width: 16
-        height: 24
+        x: 25
+        y: 159
+        width: 59
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b007a9f372865580800000000000000
-      internalID: -8838733784046698314
+      spriteID: 9e19d05348a7c1740800000000000000
+      internalID: 5124105184285135337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_1
+      name: terrex_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 72
-        width: 16
-        height: 24
+        x: 119
+        y: 159
+        width: 59
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af5ec406ed281def0800000000000000
-      internalID: -85143026333325830
+      spriteID: 426e490995de53780800000000000000
+      internalID: -8703789735890065884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_2
+      name: terrex_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 72
-        width: 16
-        height: 24
+        x: 22
+        y: 80
+        width: 65
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db086dc5a407430c0800000000000000
-      internalID: -4596925854950981443
+      spriteID: 2d3a7e713cea86970800000000000000
+      internalID: 8748434429110100946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_3
+      name: terrex_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 72
-        width: 16
-        height: 24
+        x: 114
+        y: 80
+        width: 69
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef979f7ca64d66e40800000000000000
-      internalID: 5649436337669503486
+      spriteID: 6c010dff16ea03350800000000000000
+      internalID: 5994482839957016774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_4
+      name: terrex_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 24
+        x: 209
+        y: 80
+        width: 68
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dd7589d9b3203bf0800000000000000
-      internalID: -346737890182201901
+      spriteID: 4718e935a42e1fef0800000000000000
+      internalID: -76030909830233740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_5
+      name: terrex_5
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 24
+        x: 294
+        y: 82
+        width: 71
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,20 +303,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3a1879e2fce63cc0800000000000000
-      internalID: -3731534713186674114
+      spriteID: 3c71585466bec8ed0800000000000000
+      internalID: -2410292876064516157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_6
+      name: terrex_6
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 24
+        x: 386
+        y: 82
+        width: 71
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4aaecd6e5e639190800000000000000
-      internalID: -7956894764785292722
+      spriteID: f91d14044c3020750800000000000000
+      internalID: 6269577772679680415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_7
+      name: terrex_7
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 24
+        x: 490
+        y: 80
+        width: 69
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,20 +345,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f02f8042274014cc0800000000000000
-      internalID: -3728694128208711153
+      spriteID: dbf80725bbc620550800000000000000
+      internalID: 6125577994975088573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_8
+      name: terrex_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 24
-        width: 16
-        height: 24
+        x: 586
+        y: 82
+        width: 69
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,20 +366,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09cd129eed35ee130800000000000000
-      internalID: 3597905369174760592
+      spriteID: f84489f8aa939dee0800000000000000
+      internalID: -1235893218020146033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_9
+      name: terrex_9
       rect:
         serializedVersion: 2
-        x: 16
-        y: 24
-        width: 16
-        height: 24
+        x: 680
+        y: 80
+        width: 65
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6783fe358a9bf0a50800000000000000
-      internalID: 6489609720678004854
+      spriteID: 1f430132687ea5e00800000000000000
+      internalID: 1034393627734848753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_10
+      name: terrex_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 24
-        width: 16
-        height: 24
+        x: 27
+        y: 5
+        width: 57
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +408,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 904a32de6a0f56ec0800000000000000
-      internalID: -3574186129514847223
+      spriteID: b7bf1f0b4948acb00800000000000000
+      internalID: 849637253871434619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_11
+      name: terrex_11
       rect:
         serializedVersion: 2
-        x: 48
-        y: 24
-        width: 16
-        height: 24
+        x: 119
+        y: 6
+        width: 59
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +429,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54f57055810eddb80800000000000000
-      internalID: -8368286137474130107
+      spriteID: c8cb72fef164239e0800000000000000
+      internalID: -1643173811066520436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_12
+      name: terrex_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 24
+        x: 208
+        y: 5
+        width: 64
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +450,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddabbc65dc3ec2600800000000000000
-      internalID: 444980934266829533
+      spriteID: b73386bae3b25ad20800000000000000
+      internalID: 3289082651027714939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_13
+      name: terrex_13
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 24
+        x: 295
+        y: 3
+        width: 71
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,20 +471,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9029001cf3b575480800000000000000
-      internalID: -8910553008350129655
+      spriteID: 203c3a664d2625d80800000000000000
+      internalID: -8263433701876841726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_14
+      name: terrex_14
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 24
+        x: 386
+        y: 2
+        width: 73
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,20 +492,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f04ebe7f60e03ef40800000000000000
-      internalID: 5756460171801650191
+      spriteID: dd8b1f06fce3b8650800000000000000
+      internalID: 6236147169430190301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: guy_15
+      name: terrex_15
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 24
+        x: 480
+        y: 2
+        width: 73
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,8 +513,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59732ffc3fbf99f30800000000000000
-      internalID: 4582971120410572693
+      spriteID: 1b34611e530858600800000000000000
+      internalID: 469922705028039601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrex_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11260143ed3bb7b80800000000000000
+      internalID: -8395919313364557295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrex_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c1ef70031dc540800000000000000
+      internalID: 5029697251709141102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrex_18
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf5eb16b2750660800000000000000
+      internalID: 7351408093229873837
       vertices: []
       indices: 
       edges: []
